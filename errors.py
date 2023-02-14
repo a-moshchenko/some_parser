@@ -1,0 +1,6 @@
+class NoNewUrlError(Exception):
+    ...
+
+
+class GetDataError(Exception):
+    ...
