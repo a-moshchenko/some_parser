@@ -1,5 +1,5 @@
 # some_parser
-~for run~
+*for run*
 
 pip3 install -r requirements.txt
 python3 run.py
